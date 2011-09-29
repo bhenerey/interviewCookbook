@@ -1,0 +1,5 @@
+
+## Interview Cookbook
+
+This is a Chef cookbook for setting up an EC2 node as a test environment for a remote technical test. 
+This is a bit rough and ready, but should work fine. 
