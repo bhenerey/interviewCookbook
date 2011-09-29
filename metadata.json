@@ -1,0 +1,29 @@
+{
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "description": "Installs/Configures interview",
+  "suggestions": {
+  },
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "dependencies": {
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "recipes": {
+  },
+  "providing": {
+  },
+  "platforms": {
+  },
+  "version": "0.0.1",
+  "license": "All rights reserved",
+  "maintainer": "YOUR_COMPANY_NAME",
+  "name": "interview",
+  "replacing": {
+  },
+  "maintainer_email": "YOUR_EMAIL"
+}
