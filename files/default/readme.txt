@@ -1,5 +1,4 @@
 
-CONGRATULATIONS! You are about to begin the Operations Engineering Remote Technical Test!
 
 YOUR MISSION, should you choose to accept it, is as follows:
 
